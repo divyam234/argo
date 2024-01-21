@@ -9,7 +9,7 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/zyxar/argo/rpc"
+	"github.com/divyam234/argo/rpc"
 )
 
 var (

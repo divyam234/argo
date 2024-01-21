@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/divyam234/argo/rpc"
 	"github.com/olekukonko/tablewriter"
-	"github.com/zyxar/argo/rpc"
 )
 
 var (
